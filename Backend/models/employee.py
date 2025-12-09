@@ -35,3 +35,6 @@ class Token(BaseModel):
 
 class TokenData(BaseModel):
     id : Optional[int] = None
+
+class TokenData(BaseModel):
+    id : Optional[int] = None

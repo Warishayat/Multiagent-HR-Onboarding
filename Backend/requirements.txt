@@ -10,3 +10,4 @@ psycopg
 sqlalchemy
 alembic
 email-validator
+passlib
