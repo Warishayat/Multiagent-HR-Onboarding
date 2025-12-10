@@ -10,4 +10,5 @@ psycopg
 sqlalchemy
 alembic
 email-validator
+langchain_tavily
 passlib
